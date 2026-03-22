@@ -1,0 +1,5 @@
+# Ignore old files left at root
+/node_modules
+/.next
+/src
+/package-lock.json
